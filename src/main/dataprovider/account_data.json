@@ -1,0 +1,12 @@
+{
+    "email":        "user11@gmail.com",
+    "title":        "Mr",
+    "first_name":   "sandip",
+    "last_name":    "thombare",
+    "password":     "sandip123",
+    "dob":          {
+                    "day" : "4",
+                    "month": "8",
+                    "year" : "1995"   
+                    }
+}
